@@ -1,2 +1,3 @@
 Hello this is my website
-![Image](/photo5.jpg)
+
+![Image](https://github.com/amyschang/shuweichang/blob/master/photo%201.jpg)
