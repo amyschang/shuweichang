@@ -1,3 +1,4 @@
 Hello this is my website
 
-![Image](https://github.com/amyschang/shuweichang/blob/master/photo%201.jpg)
+
+<img src="https://github.com/amyschang/shuweichang/blob/master/photo%201.jpg" width="400">
