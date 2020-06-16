@@ -32,4 +32,4 @@ NOOO! **This** is me.
 
 <img src="photo%201.jpg" width="400" />
 
-Shut up and welcome to my website.
+Shut up and welcome to my website. And follow me on insta.
