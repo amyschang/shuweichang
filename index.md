@@ -8,15 +8,15 @@ Ah, yes, but also I'm 'Shu-Wei', a qualified architect; 'sis' to two other human
 
 Yes!
 
-*The Sophia associated with the WuTang CLan?*
+*The Sophia associated with the WuTang Clan?*
 
-<img src="/wutang.png" width="400" />
+<img src="wutang.PNG" width="400" />
 
 No I'm pretty sure I'm not that Soph--
 
 *Oh I know! You're Sophia the Youtuber!*
 
-<img src="/youtuber.png" width="400" />
+<img src="youtuber.PNG" width="400" />
 
 No no no I'm not on Youtube and I don't live in the States... In fact I--
 
@@ -26,10 +26,10 @@ No, not at all, actually!
 
 *So... are you...*
 
-<img src="/robot.png" width="800" />
+<img src="robot.PNG" width="800" />
 
 NOOO! **This** is me. 
 
-<img src="/photo%201.jpg" width="400" />
+<img src="photo%201.jpg" width="400" />
 
 Shut up and welcome to my website.
