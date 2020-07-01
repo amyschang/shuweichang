@@ -18,13 +18,13 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% for js in site.js %}
+        <script src="{{ js }}"></script>
+    {% endfor %}
     {% for js in site.static_files %}
         {% if js.path contains 'assets/js' %}
             <script src="{{ js.path }}"></script>
         {% endif %}
-    {% endfor %}
-    {% for js in site.js %}
-        <script src="{{ js }}"></script>
     {% endfor %}
   </head>
   <body>
