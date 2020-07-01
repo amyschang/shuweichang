@@ -37,7 +37,7 @@ Follow me on insta.
 <div class='reviews'>
   <!-- Panel one -->
   <div class='panel'>
-    <img src="koalas.png"/>
+    <img src="koala1.png"/>
     <p>
       4 stars: Mostly reliable. Same feel and quality, even after long periods of disengagement. Not needed a new one in over 15 years so would definitely recommend. Bit on the small side, though.
     </p>
