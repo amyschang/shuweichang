@@ -1,5 +1,5 @@
 ---
 ---
 
-@use "{{ site.theme }}";
+@import "{{ site.theme }}";
 @use 'slider';
