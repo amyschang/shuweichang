@@ -34,42 +34,32 @@ NOOO! **This** is me.
 
 Follow me on insta.
 
-.slider {
-  height: 18px;
-  font-size: 16px;
-  overflow: hidden;
-  background-color: lightgrey;
-}
-
-.slider div, .slider div p {
-  margin: 0;
-  padding: 0;
-}
-
-.slider div {
-  animation: slide 10s 2s infinite;
-}
-
-@keyframes slide {
-  0% { margin-top: 0; }
-  25% { margin-top: -18px; }
-  50% { margin-top: -36px; }
-  75% { margin-top: -54px; }
-  100% { margin-top: 0; }
-}
-<div class="slider">
-  <div>
+<div class='reviews'>
+  <!-- Panel one -->
+  <div class='panel'>
+    <img src='http://www.designbolts.com/wp-content/uploads/2014/01/Superman-Flat-Design.png'>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
     </p>
+    <h7>Superman</h7>
+  </div>
+  <!-- Panel Two -->
+  <div class='panel'>
+    <img src='http://www.designbolts.com/wp-content/uploads/2014/01/Batman-Flat-Design.png'>
     <p>
-      Duis laoreet risus nunc, id iaculis velit finibus non.
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
     </p>
+    <h7>Batman</h7>
+  </div>
+  <!-- Panel Three -->
+  <div class='panel'>
+    <img src='http://www.designbolts.com/wp-content/uploads/2014/01/Liz-Sherman-Flat-Design.png'>
     <p>
-      Pellentesque dictum nisi et tincidunt euismod.
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
     </p>
-    <p>
-      Proin in interdum enim, in ultricies massa.
-    </p>
+    <h7>Liz Sherman</h7>
   </div>
 </div>
+<script>
+  speed = 600
+</script>
