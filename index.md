@@ -34,6 +34,7 @@ NOOO! **This** is me.
 
 Follow me on insta.
 
+<script src="assets/js/slider.js"></script>
 <div class='reviews'>
   <!-- Panel one -->
   <div class='panel'>
