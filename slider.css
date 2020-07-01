@@ -1,78 +1,79 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  background-color : #eee ;
 }
-
-.testimonials {
-  overflow: hidden;
-  position: relative;
-  max-height: 300px;
+.reviews {
+  width : 600px; 
+  height : 150px;
+  overflow : hidden ;
+  background-color : #fff ;
+  border-radius : 5px;
+  margin : 50px auto ;
+  position : relative ;
+  box-shadow : 0 0 10px -2px #ddd ;
 }
-
-.testimonials {
-  background: #161d25;
+.panel {
+  width : 100%;
+  max-height: 100%;
+  position : absolute ; 
 }
-
-.one-slide,
-.testimonial,
-.message {
-  border: none !important;
-  outline: none !important;
+.PanelAct {
+  left : 0 ;
 }
-
-.icon-overlay {
-  position: absolute;
-  opacity: 0.3;
-  right: 10%;
-  top: 0;
-  height: auto;
-  width: 100%;
-  max-width: 400px;
+.panel img { 
+  width : 100px;
+  height : 100px; 
+  text-align : center ;
+  float : left ; 
+  margin : 25px; 
 }
-
-.carousel-controls .control {
-  position: absolute;
-  transform: translateY(-50%);
-  width: 45px;
-  height: 45px;
-  border-radius: 50%;
-  border: 2px solid #fff;
-  z-index: 1;
+/*== Removal Start
+png images background
+==*/
+.panel:nth-of-type(1) img {
+    background : #12aedb ;
 }
-
-.prev {
-  left: -2.25rem;
+.panel:nth-of-type(2) img {
+    background : #db4646 ;
 }
-
-.next {
-  right: -2.25rem;
+.panel:nth-of-type(3) img {
+    background : #96c465 ;
 }
+/*== Removal End==*/
 
-@media screen and (max-width: 768px) {
-  .testimonials {
-    max-height: 700px;
-  }
-  .icon-overlay {
-    height: 300px;
-    top: calc(50% - 150px);
-  }
-  .carousel-controls .control {
-    width: 25px;
-    height: 25px;
-    top: inherit;
-  }
-  .prev {
-    left: 0;
-  }
-  .next {
-    right: 0;
-  }
-  .control i {
-    font-size: .7rem;
-  }
-  .testimonials .message {
-    font-size: 1rem;
-  }
-  .testimonials h2 {
-    font-size: 1.5rem;
-  }
+.panel p {
+  float : left ; 
+  width : 420px;
+  clear : right ;
+  text-align : justify ;
+  margin : 25px 0 10px 0;
+  font-size : 14px ; 
+  color : #aaa ;
+  line-height : 1.2em
+}
+.panel h7 { 
+  float : left ; 
+  width: 200px; 
+  font-size : 14px ; 
+  color : #999 ;
+  font-weight : bold ;
+  font-style : italic ;
+}
+.control { 
+  position : absolute ; 
+  bottom : 20px; 
+  right : 30px;
+}
+.control span {
+  background-color : rgba(0,0,0,0.1) ; 
+  padding : 5px; 
+  display : inline-block ;
+  vertical-align : top ;
+  margin-left : 5px ;
+  border-radius : 50%;
+  cursor : pointer ;
+  -webkit-transition : 0.3s ease-in;
+  transition : 0.3s ease-in
+}
+.ContActive {
+  background-color : #bbb !important ;
 }
