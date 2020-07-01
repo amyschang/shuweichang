@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $(".reviews").each(function(){
     var This = $(this) ;
-    var Nums = This.find(".panel").size() ;
+    var Nums = This.find(".panel").length;
     This.find(".panel:first").addClass("PanelAct");
     This.append("<div class='control'></div>") ;
     This.find(".panel").not(".PanelAct")
@@ -39,4 +39,5 @@ $(document).ready(function(){
       .animate({'left':IDire},speed);
     }
   });
+  speed = 600;
 });

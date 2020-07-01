@@ -60,6 +60,3 @@ Follow me on insta.
     <h7>Liz Sherman</h7>
   </div>
 </div>
-<script>
-  speed = 600
-</script>
