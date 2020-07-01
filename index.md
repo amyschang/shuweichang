@@ -37,11 +37,11 @@ Follow me on insta.
 <div class='reviews'>
   <!-- Panel one -->
   <div class='panel'>
-    <img src='http://www.designbolts.com/wp-content/uploads/2014/01/Superman-Flat-Design.png'>
+    <img src=''>
     <p>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      4 stars: Mostly reliable. Same feel and quality, even after long periods of disengagement. Not needed a new one in over 15 years so would definitely recommend. Bit on the small side, though.
     </p>
-    <h7>Superman</h7>
+    <h7>Emily Ireland</h7>
   </div>
   <!-- Panel Two -->
   <div class='panel'>
