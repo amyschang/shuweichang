@@ -45,18 +45,18 @@ Follow me on insta.
   </div>
   <!-- Panel Two -->
   <div class='panel'>
-    <img src='http://www.designbolts.com/wp-content/uploads/2014/01/Batman-Flat-Design.png'>
+    <img src="dog1.png"/>
     <p>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      5/5: Delivers exceptional amount of Sass for such a small package
     </p>
-    <h7>Batman</h7>
+    <h7>Dom Stalker</h7>
   </div>
   <!-- Panel Three -->
   <div class='panel'>
-    <img src='http://www.designbolts.com/wp-content/uploads/2014/01/Liz-Sherman-Flat-Design.png'>
+    <img src="dog1.png"/>
     <p>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      1/5: Caused intense physical harm over previous review
     </p>
-    <h7>Liz Sherman</h7>
+    <h7>Dom Stalker</h7>
   </div>
 </div>
