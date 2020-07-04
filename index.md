@@ -61,10 +61,10 @@ Follow me on insta.
   </div>
   <!-- Panel Four -->
   <div class='panel'>
-    <img src="dog1.jpg"/>
+    <img src="bird1.jpg"/>
     <p>
-      5/5: Delivers exceptional amount of Sass for such a small package
+      Can't tell the difference between the words 'bowl' and 'ball', but ridiculously creative, clever, and gorgeous. May never figure out how to cook a pizza.
     </p>
-    <h7>Dom Stalker</h7>
+    <h7>Zoë Bullock</h7>
   </div>
 </div>
