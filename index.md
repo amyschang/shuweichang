@@ -73,6 +73,6 @@ Follow me on insta.
     <p>
       5/5: Tis a jolly little package, highly recommended
     </p>
-    <h7>Changang Marketing Manager</h7>
+    <h7>Changang Marketing Manager and Accountant</h7>
   </div>
 </div>
