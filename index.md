@@ -67,4 +67,12 @@ Follow me on insta.
     </p>
     <h7>Zoë Bullock</h7>
   </div>
+  <!-- Panel Five -->
+  <div class='panel'>
+    <img src="bubbles.png"/>
+    <p>
+      5/5: Tis a jolly little package, highly recommended
+    </p>
+    <h7>Changang Marketing Manager</h7>
+  </div>
 </div>
