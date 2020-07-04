@@ -59,4 +59,12 @@ Follow me on insta.
     </p>
     <h7>Dom Stalker</h7>
   </div>
+  <!-- Panel Four -->
+  <div class='panel'>
+    <img src="dog1.jpg"/>
+    <p>
+      5/5: Delivers exceptional amount of Sass for such a small package
+    </p>
+    <h7>Dom Stalker</h7>
+  </div>
 </div>
