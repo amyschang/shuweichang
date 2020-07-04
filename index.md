@@ -45,7 +45,7 @@ Follow me on insta.
   </div>
   <!-- Panel Two -->
   <div class='panel'>
-    <img src="dog1.png"/>
+    <img src="dog1.jpg"/>
     <p>
       5/5: Delivers exceptional amount of Sass for such a small package
     </p>
@@ -53,7 +53,7 @@ Follow me on insta.
   </div>
   <!-- Panel Three -->
   <div class='panel'>
-    <img src="dog1.png"/>
+    <img src="dog1.jpg"/>
     <p>
       1/5: Caused intense physical harm over previous review
     </p>
