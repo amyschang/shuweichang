@@ -38,6 +38,9 @@ png images background
 .panel:nth-of-type(3) img {
     background : #96c465 ;
 }
+.panel:nth-of-type(4) img {
+    background : #96c465 ;
+}
 /*== Removal End==*/
 
 .panel p {
